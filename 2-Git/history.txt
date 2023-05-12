@@ -1,145 +1,336 @@
 ls
-ls -l 
-clear 
+ls -l
+clear
 pwd
 ls
-cd Desktop/
+ls -l
+clear
+pwd
+ls
+clear
+pwd
+ls
+cd desktop
+clear
+pwd
+ls
+cd D
+cd desktop ls
+ll
+l
+clear
+pwd
+ls
+cd desktop
+desktop ls
+clear
+pwd
+ls
+cd D
+cd desktop
+directory ls
+pwd
+ls
+cd D
+pwd
+ls
+cd D
+pwd
+ls
+cd Desktop
 ls
 ll
-pwd 
-cd /home/varunmanikoutlo/
-pwd 
-ll
-ls -l
+pwd
+cd/home/gbenowolabigmai/
+pwd
 ll
 ls -la
-ls -lar
-ls -lart
-ls -larth
-cd /home/varunmanikoutlo/
-pwd 
-cd Desktop/
-cd ../
-history 
-history | cut -c 8- 
-history 
+history
 history | cut -c 8-
-man cut
-man 
-man ls
-man cut
+pwd
+cd/home/gbenowolabigmai/
+pwd
+ls -la
+ls -larth
+ls -la^c
+ls -larth
+ls -la^C
+PWD
+pwd
+cd/home/gbenowolabigmai/
+mkdir gbenga
+mkdir gbnega
 ll
-mkdir varun
-ll
-mkdir -p /opt/one/two/tree/four
-mkdir -p ./one/two/tree/four
+mkdir -p /pot/one/two/three/four
+mkdir -p ./one/two/three/four
 ll
 ll one/
 ll one/two/
-ll one/two/tree/
+ll one/two/three/
+three
 tree
-apt  install tree
-sudo -i 
+apt install tree
+sudo -i
 sudo su
-sudo apt  install tree
-htop 
-sudo apt  install elinks
-apt  install elinks
-sudo apt  install elinks
-sudo visudo 
-touch one/one.txt
+sudo apt install tree
+htop
+sudo visudo
+sudo visudo
+touch one/one. txt
 tree one/
 tree one/two/index.html
-touch  one/two/index.html
+touch one/two/index.html
 tree one/two/index.html
 tree one/
 cd one/
 touch a.txt b.txt c.txt d.log
 ll
-vim a.txt 
+vim a.txt
 ll
 echo "hi this is for file b.txt"
-echo "hi this is for file b.txt" > b.txt 
-cat b.txt 
-cat a.txt 
-history 
+> b.txt
+cat b.txt
+cat a.txt
+history
 history > history.txt
 ll
-cat history.txt 
+cat history.txt
 ll
-rm a.txt 
+rm a.txt
 ll
 rm *.txt
 ll
 tree
 rm two/
-rmdir  two/
-rmdir  two/ -r
-rmdir  two/ -f
-rmdir  two
-rmdir  -f two
-rmdir  -rf two
+rmdir two/
 rm -rf two
 tree
 ls
 cd ..
 ll
 rm -rf one/
-history 
-history | cut -c 8-
-ehoc "hi" > index.html
-echo "hi" > index.html
-cat index.html 
-echo "hi i am good " >> index.html
-cat index.html 
-echo "hi i am good. How are you ? " >> index.html
-cat index.html 
-ll
-touch varun/a.txt
 uname -a
 date
+cat /etc/is
 cat /etc/issue
-apt install git 
-sudo apt install git 
-cat /etc/os-release 
-cd varun/
-git clone https://github.com/manikcloud/java-calculator-delete.git
+apt install git
+sudo apt install git
+cat /etc/os-release
+cd gbenga/
+git clone https://github.com/Samanjah234/java-calculator-delete-.git
+ll
+cd java-calculator-delete/
+cd java-calculator/
+ll
+cd java-calculator-delete-/
+ll
+vim README.md
+uname -a
+date
+cat /etc/is
+date
+cat /etc/is
+uname -a
+date
+cat  /etc/is
+ll
+uname -a
+date
+cat /etc/is
+sudo visudo
+sudo visudo 
+ls
+ls -l
+ls
+ls -l
+pwd
+ls
+cd Desktop/
+ls
+ll
+pwd
+cd /home/gbenowolabigmai/
+pwd
+ll
+ll -la
+ls -la
+ls -lar
+ls -lart
+ls -larth
+cd /home/gbenowolabigmai/
+pwd
+cd Desktop/
+cd ../
+history
+history | cut -c 8-
+mkdir gben
+ll
+mkdir gben
+mkdir gben 
+mkdir gben
+mkdir gbenowolabigmai
+ll
+mkdir -p /one/two/three/four
+mkdir -p ./one/two/three/four
+ll
+ll one/
+ll one/two/
+ll one/two/three/
+three
+apt install three
+sudo -i
+sudo su
+sudo apt install three
+htop
+sudo apt install elinks
+apt install elinks 
+sudo apt install elinks
+sudo visudo
+ls
+ls --help
+ls
+ls -l
+pwd
+ls
+cd
+cd Desktop/
+sudo -i
+ls
+ls -l
+pwd
+ls
+cd Desktop/
+ls
+ll
+pwd
+cd/home/gbenowolabigmai
+cd /home/gbenowolabigmai/
+pwd
+ll
+ls -a
+ls -l
+ls -la
+ls -larth
+ls -lar
+ls -lart
+ls -larth
+cd /home/gbenowolabigmai/
+pwd
+cd Desktop/
+cd ../
+history
+history | cut -c 8-
+clear
+history | cut -c 8-
+clear
+mkdir gben
+clear
+mkdir
+mkdir gbenowolabi
+ll
+mkdir -p /opt/one/two/three/four
+mkdir -p ./one/two/three/four
+ll
+ll one/
+ll one/two/
+ll one/two/three/
+three
+apt install three
+sudo -i
+sudo su
+sudo apt install three
+htop
+ls
+ls -l
+ls
+ll
+ls -l
+ls
+ls -l
+mkdir
+clear
+mkdir help
+ls
+cd Desktop/
+mkdir
+mkdir Desktop
+pwd
+cd Downloads
+clear
+ls
+sudo su apt install tree
+sudo -i
+ls
+ls -l
+cd ../
+pwd
+cd ../
+mkdir -p
+mkdir --help
+mkdir -p /opt/one/two/tree/four
+mkdir -p ./one/two/tree/four
+ll
+ll one/
+mkdir -p /pot/one/two/tree/four
+mkdir -p ./one/two/tree/four
+mkdir -p /opt/one/two/tree/four
+mkdir -p ./one/two/tree/four
+ll
+ll one/
+clear 
+tree
+pwd
+tree
+sudo -i
+sudo su
+sudo visudo
+uname -a
+date
+cat /etc/is
+cat /etc/issue
+apt install git
+sudo apt install git
+cat /etc/os-release
+cd gben/
+git clone https://github.com/Samanjah234/java-calculator-delete.git
 ll
 cd java-calculator-delete/
 ll
-vim README.md 
-git add README.md 
+vim README.md
+git add README.md
 git commit -am"first upload"
-git push 
+git push
 cd ..
 rm -rf java-calculator-delete/
 ll
-git clone git@github.com:manikcloud/java-calculator-delete.git
-ssh-keygen 
+git clone git@github.com:Samanjah234/java-calculator-delete.git
+ssh-keygen
 cd ~/.ssh/
 ll
+cat id rsa
 cat id_rsa
-cat id_rsa.pub 
-llcd -
+cat id_rsa pub
+cat id_rsa.pub
+llcd
 cd -
-git clone git@github.com:manikcloud/java-calculator-delete.git
+git clone git@github.com:Samanjah234/java-calculator-delete.git
 ll
 cd java-calculator-delete/
-vim README.md 
-git add . 
-git push 
-git config --global user.email varunmanik1@gmail.com
-git config --global user.name varun-sl
-git push 
+vim README.md
+git add .
+git commit -am"first upload"
+git push
+git config --global user.email gbenowolabi@gmail.com
+git config --global user.name gben-sl
+git push
 git status
 git commit -am"hi"
-gitpush 
-git push 
-cd ..
-git clone git@github.com:manikcloud/DevOps-Tutorial.git
+git push
+cd gben
+git clone git@github.com:Samanjah234/DevOps-Tutorial.git
 ll
 cd DevOps-Tutorial/
 ll
 cd 2-Git/
-history 
+history
 history | cut -c 8- > history.txt
